@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\SOLID Principles\\4 Interface Segregation Principle ISP\\Ex2 - Applying ISP - Printer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C7B921-EA1F-4C04-B968-B341A9455603}|Ex2 - Applying ISP - Printer.csproj|a:\\solid principles\\4 interface segregation principle isp\\ex2 - applying isp - printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C7B921-EA1F-4C04-B968-B341A9455603}|Ex2 - Applying ISP - Printer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\SOLID Principles\\4 Interface Segregation Principle ISP\\Ex2 - Applying ISP - Printer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\SOLID Principles\\4 Interface Segregation Principle ISP\\Ex2 - Applying ISP - Printer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T12:05:01.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

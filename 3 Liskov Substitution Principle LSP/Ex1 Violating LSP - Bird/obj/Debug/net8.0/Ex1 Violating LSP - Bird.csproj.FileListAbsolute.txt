@@ -1,0 +1,28 @@
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.exe
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.deps.json
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.runtimeconfig.json
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.dll
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.pdb
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.AssemblyInfoInputs.cache
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.AssemblyInfo.cs
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.csproj.CoreCompileInputs.cache
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.dll
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\refint\Ex1 Violating LSP - Bird.dll
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.pdb
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.genruntimeconfig.cache
+D:\Dropbox\Personal\Advices\2021\26 Software Design\Solid Principles\03 LSP\02 Examples\01 Example1 - Viloating LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\ref\Ex1 Violating LSP - Bird.dll
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.exe
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.deps.json
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.runtimeconfig.json
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.dll
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\bin\Debug\net8.0\Ex1 Violating LSP - Bird.pdb
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.GeneratedMSBuildEditorConfig.editorconfig
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.AssemblyInfoInputs.cache
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.AssemblyInfo.cs
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.csproj.CoreCompileInputs.cache
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.dll
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\refint\Ex1 Violating LSP - Bird.dll
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.pdb
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\Ex1 Violating LSP - Bird.genruntimeconfig.cache
+A:\SOLID Principles\3 Liskov Substitution Principle LSP\Ex1 Violating LSP - Bird\obj\Debug\net8.0\ref\Ex1 Violating LSP - Bird.dll
